@@ -3,6 +3,9 @@
     .navbar {
         margin: 0 30px;
     }
+    .top-bar {
+        margin: 0 30px;
+    }
 }
 
 
@@ -17,5 +20,9 @@
     .navbar {
         margin: 0 60px;
     }
+    .top-bar {
+        margin: 0 60px;
+    }
+}
 }
 
