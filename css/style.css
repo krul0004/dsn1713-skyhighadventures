@@ -1,0 +1,21 @@
+
+@media screen and (min-width: 576px) {
+    .navbar {
+        margin: 0 30px;
+    }
+}
+
+
+@media screen and (max-width: 786px) {
+    #slogan {
+        display: none;
+    }
+}
+
+
+@media screen and (min-width: 786px) {
+    .navbar {
+        margin: 0 60px;
+    }
+}
+
