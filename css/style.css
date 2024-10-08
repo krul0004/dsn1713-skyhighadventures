@@ -28,7 +28,7 @@
 
 
 .bg {
-    background-image: url("/images/jump.jpg");
+    background-image: url("images/jump.jpg");
     background-size: cover; 
     background-position: center;
 }
